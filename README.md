@@ -1,5 +1,5 @@
 # docker-redis-din-port
-Container to run redis under any by environment parameter.
+Container to run redis under any port by environment parameter.
 
 # Usage:
 
